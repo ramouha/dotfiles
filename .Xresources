@@ -1,0 +1,75 @@
+!
+! Generated with :
+! XRDB2Xreources.py
+!
+*.foreground:  #d6dbe5
+*.background:  #131313
+*.cursorColor: #b9b9b9
+!
+! Black
+*.color0:      #1f1f1f
+*.color8:      #d6dbe5
+!
+! Red
+*.color1:      #f81118
+*.color9:      #de352e
+!
+! Green
+*.color2:      #2dc55e
+*.color10:     #1dd361
+!
+! Yellow
+*.color3:      #ecba0f
+*.color11:     #f3bd09
+!
+! Blue
+*.color4:      #2a84d2
+*.color12:     #1081d6
+!
+! Magenta
+*.color5:      #4e5ab7
+*.color13:     #5350b9
+!
+! Cyan
+*.color6:      #1081d6
+*.color14:     #0f7ddb
+!
+! White
+*.color7:      #d6dbe5
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #d6dbe5
+!*.colorIT:
+!*.colorUL:
+
+
+URxvt.font: xft:monospace:pixelsize=12:antialias=true:autohint=true
+URxvt*iconFile: /home/me/.icons/Arc-ICONS/apps/symbolic/utilities-terminal-symbolic.svg
+URxvt.visualBell: true
+URxvt.scrollstyle: plain
+!URxvt.secondaryScroll: true
+URxvt.saveLines: 10000
+!URxvt.saveLines: 8192
+!URxvt.resource: value
+URxvt.perl-ext-common: default,resize-font
+URxvt.keysym.C-minus:     resize-font:smaller
+URxvt.keysym.C-plus:      resize-font:bigger
+URxvt.keysym.C-equal:     resize-font:reset
+URxvt.keysym.C-question:  resize-font:show
+URxvt.geometry: 75x24
+
+!URxvt.loginShell: true
+!URxvt.geometry: 80x50
+!URxvt.saveLines: 10000
+!URxvt.cutchars: "`\"'&()*,:;<=>?[\\]^{|}$"
+!URxvt.font: xft:Hack:pixelsize=12:antialias=true:autohint=true
+!URxvt.italicFont: xft:Hack
+!URxvt.letterSpace: -1
+URxvt.scrollBar: false
+!URxvt.visualBell: true
+
+/* this is SO AWESOME: */
+!URxvt.fading: 15
+!URxvt spells "eightBitInput" as "meta8" and defaults it to false */
+

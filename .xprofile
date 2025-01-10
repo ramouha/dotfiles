@@ -1,0 +1,2 @@
+(sleep 3 && remaps) &
+xinput set-prop "TPPS/2 IBM TrackPoint" "libinput Accel Speed" 1.0 &
